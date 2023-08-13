@@ -1,0 +1,8 @@
+[
+    {
+        "package": "opendpbase",
+        "url": "https://github.com/opendp/opendp",
+        "branch": "365-r-bindings-iqss-gen",
+        "subdir": "R/opendpbase"
+    }
+]
