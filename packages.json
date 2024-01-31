@@ -2,7 +2,7 @@
     {
         "package": "opendp",
         "url": "https://github.com/opendp/opendp",
-        "branch": "r-latest",
+        "branch": "r-universe",
         "subdir": "R/opendp"
     }
 ]
