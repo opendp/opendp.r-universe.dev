@@ -1,8 +1,2 @@
 [
-    {
-        "package": "opendp",
-        "url": "https://github.com/opendp/opendp",
-        "branch": "r-universe",
-        "subdir": "R/opendp"
-    }
 ]
